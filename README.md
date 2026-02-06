@@ -1,3 +1,3 @@
-                                    ## Olá, eu sou a Gabriella👋
+ ## Olá, eu sou a Gabriella👋
 
-                  Estudante de Sistemas de Informação na Universidade Federal de Uberlândia
+Estudante de Sistemas de Informação na Universidade Federal de Uberlândia
